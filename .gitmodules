@@ -1,0 +1,3 @@
+[submodule "real_time_face_recognition"]
+	path = real_time_face_recognition
+	url = https://github.com/Susanna1999/real_time_face_recognition.git

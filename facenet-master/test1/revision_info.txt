@@ -1,0 +1,7 @@
+arguments: src/align/align_dataset_mtcnn.py .../test ./test1 --image_size 160 --margin 32 --random_order
+--------------------
+tensorflow version: 1.14.0
+--------------------
+git hash: b''
+--------------------
+b''
